@@ -1,0 +1,19 @@
+INSTALLATION OF APPIUM and other needed files:
+
+Appium will not run if nodejs/npm are installed as a privileged (sudo) user so use Homebrew instead.
+
+Needed:
+>Java Development Kit (JDK)
+>Android SDK/ADB
+    >Android SDK Packages
+>NodeJs
+>Microsoft .net Framework
+>Appium Desktop Client
+>PDaNet
+>Eclipse IDE
+
+
+Phone:
+>Enable Developer Options on mobile
+>Usb
+>Enable Usb thingy 
